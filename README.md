@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there 👋
+
+<a href="https://github.com/CacaoGatto">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CacaoGatto&show_icons=true&include_all_commits=true&count_private=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/CacaoGatto">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CacaoGatto&hide=PLpgSQL,Html,Jupyter Notebook&layout=compact" />
+</a>
+
+<br>
 
 <!--
 **CacaoGatto/CacaoGatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
